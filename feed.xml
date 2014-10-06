@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>josh lives here</title>
+    <description>A site by a guy called Josh
+</description>
+    <link>https://josh64x2.github.io/</link>
+    <atom:link href="https://josh64x2.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 06 Oct 2014 14:54:04 +1100</pubDate>
+    <lastBuildDate>Mon, 06 Oct 2014 14:54:04 +1100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Welcome</title>
+        <description>&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Oct 2014 01:51:01 +1100</pubDate>
+        <link>https://josh64x2.github.io/2014/10/07/Welcome.html</link>
+        <guid isPermaLink="true">https://josh64x2.github.io/2014/10/07/Welcome.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
