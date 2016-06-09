@@ -1,5 +1,6 @@
 # Site settings
 title: josh lives here
+timezone: Australia/Sydney
 description: A site by a guy called Josh
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://josh64x2.github.io" # the base hostname & protocol for your site
