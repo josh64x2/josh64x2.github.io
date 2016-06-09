@@ -1,9 +1,7 @@
 # Site settings
 title: josh lives here
 timezone: Australia/Sydney
-# email: josh64@gmail.com
-description: > 
- A site by a guy called Josh
+description: A site by a guy called Josh
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://josh64x2.github.io" # the base hostname & protocol for your site
 github_username: josh64x2 
@@ -11,4 +9,7 @@ github_username: josh64x2
 # Build settings
 markdown: kramdown
 show_drafts: false
-future: true
+future: true 
+
+gems:
+  - jekyll-feed
