@@ -1,0 +1,14 @@
+# Site settings
+title: josh lives here
+# email: josh64@gmail.com
+description: > 
+ A site by a guy called Josh
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://josh64x2.github.io" # the base hostname & protocol for your site
+twitter_username: josh64x2 
+github_username: josh64x2 
+
+# Build settings
+markdown: kramdown
+keep_files: [".git", "README.md"]
+# destination: /Users/josh/src/josh64x2.github.io/
