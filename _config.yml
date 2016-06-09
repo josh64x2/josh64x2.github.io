@@ -1,5 +1,6 @@
 # Site settings
 title: josh lives here
+timezone: Australia/Sydney
 # email: josh64@gmail.com
 description: > 
  A site by a guy called Josh
@@ -9,4 +10,5 @@ github_username: josh64x2
 
 # Build settings
 markdown: kramdown
-keep_files: [".git", "README.md"]
+show_drafts: false
+future: true
