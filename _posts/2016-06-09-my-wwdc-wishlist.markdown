@@ -13,3 +13,5 @@ These are some of the things I hope Apple unveil at WWDC next week:
 * An updated thunderbolt display with USB 3.0 as well as a 5K thunderbolt display
 
 Lets see if I get anything on that list. 🙂
+
+EDIT: Almost forgot the number one thing I want - Custom notification profiles for iOS. e.g. (vibrate only, phone calls only).
