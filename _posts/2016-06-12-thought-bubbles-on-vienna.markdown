@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thoughtbubbles on Vienna"
+title:  "Thought bubbles on Vienna"
 date:   2016-06-12 12:00:00
 ---
 Over the last 12 months I've spent a lot of time contemplating the future of Vienna. 
